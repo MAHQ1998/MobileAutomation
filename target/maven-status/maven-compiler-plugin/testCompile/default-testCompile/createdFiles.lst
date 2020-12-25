@@ -1,0 +1,6 @@
+test\Regression.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\ManageTransfersPage.class
+pages\HomePage.class
+test\SmokeTest.class

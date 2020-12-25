@@ -1,0 +1,4 @@
+com\pnt\mobileautomation\TestBase.class
+com\pnt\mobileautomation\AppiumAndroid.class
+com\pnt\mobileautomation\ExtentTestManager.class
+com\pnt\mobileautomation\AppiumIOS.class
